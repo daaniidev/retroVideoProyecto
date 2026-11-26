@@ -1,0 +1,12 @@
+# Base de datos
+*.db
+*.db-journal
+
+# Compilación de NetBeans
+build/
+dist/
+nbproject/private/
+
+# Sistema
+.DS_Store
+Thumbs.db
